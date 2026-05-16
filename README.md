@@ -1,4 +1,4 @@
-This repository contains PA 17.1 Link to your Jupyter notebook 
+This repository contains PA 17.1 Link to your Jupyter notebook https://github.com/sabinadeparis/PraticalApplication3_Module17/blob/7bcbcc8bb1535697590a9321ee73b6f0aabbe312/assignment17.1_DeParis.ipynb
 
 Summary of findigs:
 After evaluating four machine learning models—K-Nearest Neighbors (KNN), Logistic Regression, Decision Trees, and Support Vector Machines (SVM)—the results showed that accuracy alone was not a reliable performance measure.
